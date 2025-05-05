@@ -1,4 +1,6 @@
 Python Discord Bot 🤖
+
+
 A Python-based Discord bot using discord.py that listens for messages, responds to simple commands, and handles reactions. Great starting point for building more complex bots.
 
 📋 Features
